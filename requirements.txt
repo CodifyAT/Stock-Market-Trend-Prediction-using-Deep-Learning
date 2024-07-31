@@ -7,5 +7,5 @@ matplotlib
 keras
 tensorflow
 scikit-learn
-alpha_vantage
+alpha_vantage==2.3.1
 gunicorn
