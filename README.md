@@ -1,6 +1,6 @@
 # Stock Trend Prediction using Deep Learning
 
-[Link](https://stocktrend-vrxt.onrender.com)
+[Link to Site](https://stocktrend-vrxt.onrender.com)
 
 Overview
 
