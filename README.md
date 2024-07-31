@@ -1,4 +1,4 @@
-# Stock Tren Prediction using Deep Learning
+# Stock Trend Prediction using Deep Learning
 
 
 Overview
