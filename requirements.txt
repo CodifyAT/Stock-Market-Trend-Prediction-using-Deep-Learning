@@ -7,4 +7,5 @@ matplotlib
 keras
 tensorflow
 scikit-learn
+alpha_vantage
 gunicorn
